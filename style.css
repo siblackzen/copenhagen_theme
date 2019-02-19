@@ -1180,6 +1180,10 @@ ul {
   display: none;
 }
 
+.article-list {
+  margin-bottom: 20px;
+}
+
 /***** Article *****/
 .article {
   /*
